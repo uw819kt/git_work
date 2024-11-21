@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="ページ1" id="Yg4KMLySHaOy_Sq2R1wh">
+    <mxGraphModel dx="522" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jGiyGemdc9yFkxoBB7aq-1" target="jGiyGemdc9yFkxoBB7aq-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-1" value="開始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="105" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jGiyGemdc9yFkxoBB7aq-6" target="jGiyGemdc9yFkxoBB7aq-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-6" value="上限の数を指定する" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jGiyGemdc9yFkxoBB7aq-8" target="jGiyGemdc9yFkxoBB7aq-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jGiyGemdc9yFkxoBB7aq-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-8" value="数字が上限達したか" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="72.5" y="90" width="145" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jGiyGemdc9yFkxoBB7aq-10" target="jGiyGemdc9yFkxoBB7aq-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-10" value="3の倍数の時、Fizzと表示する&lt;div&gt;5の倍数の時、Buzz&lt;/div&gt;&lt;div&gt;3と5の倍数の時、FizzBuzzと表示する&lt;/div&gt;&lt;div&gt;それ以外の時、数字を表示する&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="40" y="140" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jGiyGemdc9yFkxoBB7aq-12" target="jGiyGemdc9yFkxoBB7aq-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="11" y="275" />
+              <mxPoint x="11" y="108" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-12" value="数字に1プラスする" style="whiteSpace=wrap;html=1;align=center;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="85" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jGiyGemdc9yFkxoBB7aq-19" value="終了" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
